@@ -6,7 +6,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: fantasy;
+    font-family: sans-serif;
     color: #777;
 }
 
@@ -77,7 +77,7 @@ html, body {
 }
 
 .sect-header {
-    font-family: sans-serif;
+    font-family: fantasy;
     font-weight: normal;
     color: #333;
     text-align: center;
