@@ -2,9 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Raleway:wght@300&display=swap');
 
 @font-face {
-    font-family: "Booter - Zero Zero";
-    src: url("Fonts/Booter\ - Zero Zero.woff") format("woff"),
-         url("fonts/Booter\ - Zero Zero.woff2") format("woff2");
+    font-family: sans-serif;
          font-weight: normal;
          font-style: normal;
 }
@@ -62,7 +60,7 @@ html, body {
     text-align: center;
     margin: 0;
     font-size: 3em;
-    font-family: "Booter - Zero Zero";
+    font-family: sans-serif;
     font-weight: normal;
     color: black;
 }
@@ -82,7 +80,7 @@ html, body {
 }
 
 .sect-header {
-    font-family: "Metal Mania";
+    font-family: sans-serif;
     font-weight: normal;
     color: #333;
     text-align: center;
