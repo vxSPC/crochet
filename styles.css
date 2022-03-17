@@ -64,7 +64,7 @@ html, body {
     font-size: 3em;
     font-family: "Booter - Zero Zero";
     font-weight: normal;
-    color: white;
+    color: black;
 }
 
 .name-large {
@@ -100,7 +100,7 @@ html, body {
 
 .main-foot {
     background-color: #56CCf2;
-    color: white;
+    color: black;
     padding: .25em 0;
 }
 
@@ -132,7 +132,7 @@ html, body {
 
 .btn-header {
     margin: .5em 15% 2em 15%;
-    color: white;
+    color: black;
     border: 2px solid #209CDB;
     background-color: rgba(255, 255, 255, .1);
     border-radius: 0;
@@ -190,7 +190,7 @@ html, body {
 .btn-1
 
 .btn-primary {
-    color: white;
+    color: black;
     background-color: #56CCf2;
     border: none;
     border-radius: .3em;
@@ -290,7 +290,7 @@ html, body {
 }
 
 .btn-danger {
-    color: white;
+    color: black;
     background-color: #EB5757;
     border: none;
     border-radius: .3em;
