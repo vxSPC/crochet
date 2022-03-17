@@ -1,12 +1,12 @@
 @font-face {
-    font-family: sans-serif;
+    font-family: fantasy;
          font-weight: normal;
          font-style: normal;
 }
 
 * {
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: fantasy;
     color: #777;
 }
 
@@ -57,7 +57,7 @@ html, body {
     text-align: center;
     margin: 0;
     font-size: 2em;
-    font-family: sans-serif;
+    font-family: fantasy;
     font-weight: normal;
     color: black;
 }
