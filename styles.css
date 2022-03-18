@@ -76,6 +76,10 @@ html, body {
     padding: 0 1.5em;
 }
 
+.bodynew{
+    background-image url("images/img13.jpg");
+}
+
 .sect-header {
     font-family: fantasy;
     font-weight: normal;
