@@ -71,9 +71,9 @@ html, body {
 }
 
 .container {
-    max-width: 700px;
     margin: 0 auto;
     padding: 0 1.5em;
+    background-image url("images/img13.jpg");
 }
 
 .bodynew{
